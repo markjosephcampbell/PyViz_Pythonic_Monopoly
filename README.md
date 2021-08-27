@@ -1,1 +1,1 @@
-# _PyViz_Pythonic_Monopoly
+# PyViz_Pythonic_Monopoly
